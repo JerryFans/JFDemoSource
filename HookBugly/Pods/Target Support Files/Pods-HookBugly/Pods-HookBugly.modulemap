@@ -1,0 +1,6 @@
+framework module Pods_HookBugly {
+  umbrella header "Pods-HookBugly-umbrella.h"
+
+  export *
+  module * { export * }
+}
